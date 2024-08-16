@@ -1,0 +1,9 @@
+ * {
+    padding: 0px;
+    margin: 10px;
+    background-color:azure;
+    } 
+
+    header>figure{
+        display: inline-block;
+    }
