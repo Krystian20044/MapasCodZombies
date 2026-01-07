@@ -1,10 +1,31 @@
  * {
     padding: 0px;
     margin: 10px;
-    background-color:azure;
+    background-color:rgb(240, 244, 244);
+      box-sizing: border-box;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     } 
+                  
 
 
     footer {
-        
+        background-color: rgb(244, 241, 241);
+         text-align: center;
+         padding: 20px;
+         margin-top: 20px;
     }
+
+      .footer-text {
+         color: rgb(105, 105, 105);
+         font-size: 14px;
+      }  
+
+      .footer-link {
+            color: rgb(70, 130, 180);
+            text-decoration: none;
+         }  
+
+      .footer-link:hover {
+            text-decoration: underline;
+         }     
+
